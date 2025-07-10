@@ -1,4 +1,4 @@
-const API_URL = 'https://webpagehire-backend-5.onrender.com/';
+const API_URL = 'https://webpagehire-backend-5.onrender.com';
 
 document.addEventListener('DOMContentLoaded', function() {
     const developerGrid = document.getElementById('developerGrid');
